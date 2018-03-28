@@ -1,0 +1,19 @@
+/*
+* Cupcakes
+* March 28,2018
+* CSS Project
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { 
+	background-color: blue; color: gray;
+
+}
