@@ -20,6 +20,16 @@ font-family: "Times New Roman", Times,serif;
 h1 {
 	font-size: 200%;
 	text-align: center;
-	text-decoration: underline
+	text-decoration: underline;
+	background-color: #D7BDE2  
 	}
+h3 {
+background-color: #D7BDE2  
+}
+p {
+background-color: white; color: #220556
+}
 img {float: right;}
+
+
+	
