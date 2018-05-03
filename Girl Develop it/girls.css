@@ -1,0 +1,45 @@
+/*
+*Annmarie Twum-Danso
+* April 18,2018
+* p04 CSS
+*/
+
+/* The universal selector */
+
+* { margin: 0.5; padding: 0.5; } *
+
+
+header{
+		background-color:#ff6666;
+		}
+/* image attributes */		
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+/* body attributes */
+body{
+	background-color:#fde8ec;
+	font-family:Arial, Helvetica, sans-serif;
+	}
+/* header attributes */		
+h1,h2{
+	font-family:"Apple Chancery",cursive, serif;
+	text-decoration:underline;
+	}
+/* image attributes */	
+.right{
+	float:right;
+	height: 180px;
+	width: 260px;}
+/* link attributes */
+a:hover,a:focus{
+	color:fuchsia;
+	font-size: 16pt;
+	}
+/* footer attributes */
+footer{
+font-family:"Times New Roman", Times, serif;
+}
