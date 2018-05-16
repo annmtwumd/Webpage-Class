@@ -1,0 +1,96 @@
+/*
+*Annmarie Twum-Danso
+*May 14,2018
+* p04 CSS
+*/
+
+/* The universal selector */
+
+*{margin: 0; padding: 0;
+}
+/* This sets up the look for the majority of the page */
+body{width: 1000px;
+margin: auto;
+background-color: #b3ffb3;
+}
+/* This contains the set up for the header */
+header{ border-bottom: 2px solid blue;
+margin-bottom: 8px; 
+}
+p {
+padding: 10px;
+}
+/* Contains info on the set for h1 */
+h1{
+text-align: center;
+color: orange;
+font-size: 30pt;
+font-family: "Times New Roman";
+ 
+}
+/* Contains info on the set for h2 */
+h2{
+color: gray;
+font-size: 16pt;
+font-family:"Apple Chancery";
+text-decoration: underline; 
+}
+/* Contains info on the set for footer */
+footer{
+color:black;
+font-size: 11pt;
+font-family:"Arial";
+border-top: 2px solid blue;
+margin-top: 8px;
+clear: both;
+
+}
+/* contains the content for the look of the pictures from the HTML */
+.right{float: right; height: 200px; width: 200px;
+border: 3px solid black;
+margin: 20px;
+padding: 0.5px;
+}
+.left{float: left; height: 150px; width: 150px;
+border: 3px solid black;
+margin: 20px;
+padding: 0.5px;
+}
+.top{float: right; height: 135px; width: 150px;
+border: 3px solid black;
+margin: 20px;
+padding: 0.5px;
+}
+.top2{float: left; height: 200px; width: 250px;
+border: 3px solid black;
+margin: 15px;
+padding: 0.5px;
+}
+.left2{height: 150px; width: 150px;
+border: 3px solid black;
+margin: 20px;
+padding: 0.5px;
+}
+.bottom{height: 150px; width: 200px;
+border: 3px solid black;
+margin: 20px;
+padding: 0.5px;
+}
+.bottom2{height: 150px; width: 200px;
+border: 3px solid black;
+margin: 20px;
+padding: 0.5px;
+}
+.bottom3{height: 150px; width: 200px;
+border: 3px solid black;
+margin: 20px;
+padding: 0.5px;
+}
+
+
+
+
+
+
+
+
